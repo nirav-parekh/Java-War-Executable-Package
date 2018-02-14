@@ -1,5 +1,5 @@
-# tomcat_war_content
+# Tomcat_Build_war_content
 
-This is an example java build and deploy of the resulting
-war file to a tomcat server..]
+This is an example java build project.
+It will build exucutable war package artifact file. Which can deploy on tomcat server.
 
